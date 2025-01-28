@@ -24,7 +24,7 @@ Tuesday, January 28th 2025
 5. Downloading Historical Stock Data
 
 **ASSIGNMENT:** 
-<br>[Unit 0 Assignment 01 - Stock Market Data Upload](https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Unit_0_Introduction_to_Data_Visualization/Assignments/01_Stock_Market_Data_Upload.mdd)
+<br>[Unit 0 Assignment 01 - Stock Market Data Upload](https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Unit_0_Introduction_to_Data_Visualization/Assignments/01_Stock_Market_Data_Upload.md)
 
 ## Resources
 [Ticker Symbols (stockanalysis.com)](https://stockanalysis.com/stocks/)

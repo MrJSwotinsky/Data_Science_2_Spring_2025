@@ -27,3 +27,8 @@ Tuesday, January 28th 2025
 <br>[Unit 0 Assignment 01 - Stock Market Data Upload](https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Unit_0_Introduction_to_Data_Visualization/Assignments/01_Stock_Market_Data_Upload.mdd)
 
 ## Resources
+[Ticker Symbols (stockanalysis.com)](https://stockanalysis.com/stocks/)
+
+[Google Finance](https://www.google.com/finance)
+
+[Nasdaq Historical Stock Data](https://www.nasdaq.com/market-activity/quotes/historical)

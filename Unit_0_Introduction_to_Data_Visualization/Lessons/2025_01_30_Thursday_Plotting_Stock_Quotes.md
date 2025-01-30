@@ -24,3 +24,9 @@ Thursday, January 30th 2025
 <br>[Unit 0 Assignment 02 - Stock Quote Plots](https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Unit_0_Introduction_to_Data_Visualization/Assignments/02_Stock_Quote_Plots.md)
 
 ## Resources
+**Pandas Code Reference:** <br>
+|Code|Description|
+|---|---|
+|`my_dataframe = read_csv('my_file.csv')`|imports data from `'my_file.csv'` as a dataframe assigned to `'my_dataframe'`.|
+|`my_dataframe = my_dataframe.set_index('my_column')`|sets `'my_column'` as the index of `my_dataframe`.|
+|`my_slice = my_dataframe.loc['start_index':'end_index']`|generates a horizontal slice of `my_dataframe` containing all rows from `start_index` to `end_index`.<br><br>**Note:** `my_slice = my_dataframe.loc['start_index':]` generates a horizontal slice of `my_dataframe` containing all rows from `start_index` to the last row of the dataframe.<br><br>**Note:** `my_slice = my_dataframe.loc[:'end_index']` generates a horizontal slice of `my_dataframe` containing all rows from the first row of the dataframe to `end_index`.|

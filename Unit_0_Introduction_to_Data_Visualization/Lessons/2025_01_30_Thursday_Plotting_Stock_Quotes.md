@@ -30,3 +30,14 @@ Thursday, January 30th 2025
 |`my_dataframe = read_csv('my_file.csv')`|imports data from `'my_file.csv'` as a dataframe assigned to `'my_dataframe'`.|
 |`my_dataframe = my_dataframe.set_index('my_column')`|sets `'my_column'` as the index of `my_dataframe`.|
 |`my_slice = my_dataframe.loc['start_index':'end_index']`|generates a horizontal slice of `my_dataframe` containing all rows from `start_index` to `end_index`.<br><br>**Note:** `my_slice = my_dataframe.loc['start_index':]` generates a horizontal slice of `my_dataframe` containing all rows from `start_index` to the last row of the dataframe.<br><br>**Note:** `my_slice = my_dataframe.loc[:'end_index']` generates a horizontal slice of `my_dataframe` containing all rows from the first row of the dataframe to `end_index`.|
+
+**Pyplot Code Reference:** <br>
+|Code|Description|
+|---|---|
+|`fig, ax = plt.subplots()`|generates figure and axes objects to hold a plot.|
+|`plt.show()`|displays a plot.|
+|`ax.plot(my_dataframe['x_column'], my_dataframe['y_column'])`|generates a line plot from data in `'x_column'` and `'y_column'` of `my_dataframe`.<br><br>**Note 1:** `'x_column'` and `'y_column'` may represent any two columns.<br><br>**Note 2:** `my_dataframe.index` can replace `my_dataframe['x_column']` to use indices instead of column values for the x-axis.|
+
+**Customization** <br>
+|`plt.xticks()` parameters|`rotation` rotates the tickmarks along the x-axis.<br><br>For example, `plt.xticks(rotation = 15)` rotates the tickmarks along the x-axis by 15 degrees.<br><br>`ha` sets the horizontal alignment of the tickmarks along the x-axis.<br><br>For example, `plt.xticks(ha = 'right')` gives the tickmarks along the x-axis right alignment.|
+

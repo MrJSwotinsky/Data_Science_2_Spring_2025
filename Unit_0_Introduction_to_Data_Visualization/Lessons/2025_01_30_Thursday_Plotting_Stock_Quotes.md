@@ -14,11 +14,17 @@ Thursday, January 30th 2025
 
 |DO NOW|
 |---|
-|Open the tickers for the six stocks you selected.<br><br>How have you stocks performed over the last day? week? month? etc.<br><br>Have you noticed anything noteworthy about any of your stocks?<br><br>What do you wonder?|
+|Open the tickers for the six stocks you selected.<br><br>How have you stocks performed over the last day? week? month? etc.<br><br>Have you noticed anything interesting and/or intriguing about any of your stocks?|
 
 **AGENDA:**
 1. Stock Share Out
-2.
+2. Code-Along
+    * Configure .csv Files
+    * Import Stock Data
+    * Set Indices of Stock Data
+    * Slice Stock Data
+    * Plot Stock Data
+    * Customize Our Plots  
 
 **ASSIGNMENT:** 
 <br>[Unit 0 Assignment 02 - Stock Quote Plots](https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Unit_0_Introduction_to_Data_Visualization/Assignments/02_Stock_Quote_Plots.md)

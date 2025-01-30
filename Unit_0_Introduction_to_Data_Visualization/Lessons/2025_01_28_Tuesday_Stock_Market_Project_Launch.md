@@ -17,6 +17,7 @@ Tuesday, January 28th 2025
 |---|
 |Four stock charts are displayed below.<br><br>Based only on the information you have in front of you, which stock would you invest in and why?<br><br><img width = 400, height = 100, src = 'https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Resources/NVIDIA_1_27_max.png'><img width = 400, height = 100, src = 'https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Resources/NVIDIA_1_27_5d.png'><br><img width = 400, height = 100, src = 'https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Resources/NVIDIA_1_27_1d.png'><img width = 400, height = 100, src = 'https://github.com/MrJSwotinsky/Data_Science_2_Spring_2025/blob/main/Resources/NVIDIA_1_27_6m.png'>|
 
+**AGENDA:**
 1. Investment Discussion
 2. Interpreting Stock Charts
 3. Limitations of Stock Charts

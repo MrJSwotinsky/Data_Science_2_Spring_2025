@@ -2,7 +2,7 @@
 Due: Friday, January 31st 2025
 
 ## DataCamp
-**Course 8: Introduction to Data Visualization with Matplotlib:** <br><br>
+**Course 8: Introduction to Data Visualization with Matplotlib:** <br>
 [Chapter 1: Introduction to Matplotlib > Video 1: Introduction to Data Visualization with MatPlotLib](https://campus.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib/introduction-to-matplotlib?ex=1) + Exercises<br>
 [Chapter 1: Introduction to Matplotlib > Video 2: Customizing Your Plots](https://campus.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib/introduction-to-matplotlib?ex=4) + Exercises
 

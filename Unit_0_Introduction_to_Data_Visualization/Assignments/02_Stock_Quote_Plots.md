@@ -1,4 +1,4 @@
-# Unit 0, Assignment 02: Stock Quote Plot
+# Unit 0, Assignment 02: Stock Quote Plots
 Due: Friday, January 31st 2025
 
 ## DataCamp
